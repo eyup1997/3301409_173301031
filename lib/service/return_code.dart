@@ -1,0 +1,3 @@
+enum LoginCode{SUCCESSFUL,UNSUCCESSFUL}
+enum RegisterCode{SUCCESSFUL,UNSUCCESSFUL}
+enum AuthCode{OK_AUTH,NON_AUTH}
